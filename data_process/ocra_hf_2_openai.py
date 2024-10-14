@@ -14,7 +14,6 @@ from argparse import ArgumentParser
 from tqdm.auto import tqdm
 
 
-
 def set_agrs():
     
     args = ArgumentParser()
